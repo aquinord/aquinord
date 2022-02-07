@@ -47,6 +47,7 @@ dependencies:
   flutter_html: ^2.1.5
   html_unescape: ^1.0.2
   flutter_animation_progress_bar: ^2.0.1
+  flutter_math_fork: ^0.5.0
 
   firebase_core: ^1.0.1 #Recursos básicos
   cloud_firestore: ^1.0.1 #Banco de dados
