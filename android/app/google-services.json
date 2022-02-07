@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802147036939",
+    "project_id": "defesa-civil-ouro-preto-2",
+    "storage_bucket": "defesa-civil-ouro-preto-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802147036939:android:2d7c7641e95d44fe233c0e",
+        "android_client_info": {
+          "package_name": "com.ouropreto.defesa_civil_op"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802147036939-5lfb1ei0mld3qp5islf4cip0v6qrqfee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMGAz4fM7aiii92tBlwtdQzCDDIUrf-hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802147036939-5lfb1ei0mld3qp5islf4cip0v6qrqfee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
